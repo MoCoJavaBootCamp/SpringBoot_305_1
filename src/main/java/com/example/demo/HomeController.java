@@ -31,7 +31,6 @@ public class HomeController {
         movie.setYear(2009);
         movie.setCast(actors);
 
-
         Movie movie2 = new Movie();
         movie2.setTitle("Sesame Street 2");
         movie2.setDescription("A bird teaches children again");
